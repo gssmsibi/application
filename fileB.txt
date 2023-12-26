@@ -2,3 +2,4 @@ This is file B
 
 making change
 making another change
+ making another change squash merge
