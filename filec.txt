@@ -5,3 +5,5 @@ making a change in file C
 
 making another change in file C
 
+branch protection rule
+
